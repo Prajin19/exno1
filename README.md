@@ -146,4 +146,5 @@ sns.scatterplot(data=af)
 
 
 # Result
-          <<include your Result here>>
+
+Hence,the data cleaning process and the detection of outlier and its removal has been done successfully.
